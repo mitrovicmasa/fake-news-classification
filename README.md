@@ -1,6 +1,6 @@
 # fake-news-classification
 
-This project was developed as part of a course at the **Faculty of Mathematics, University of Belgrade.
+This project was developed as part of a course at the **Faculty of Mathematics, University of Belgrade**.
 
 The goal is to classify news articles as "real" or "fake" using various techniques.
 
